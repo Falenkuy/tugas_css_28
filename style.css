@@ -1,0 +1,16 @@
+div{
+    color: white;
+    background-color: #333333;
+    width: 500px;
+    height: 700px;
+    margin-left: 500px;
+}
+body{
+    background-color: #333333;
+    padding-top: 40px;
+}
+img{
+    width: 200px;
+    height: 100px;
+    margin-left: 150px ;
+}
